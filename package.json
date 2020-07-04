@@ -1,0 +1,33 @@
+{
+  "name": "WebSocketServer",
+  "version": "0.0.1",
+  "description": "WebSocket Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node build/main.js"
+  },
+  "dependencies": {
+    "ws": "^7.3.0",
+    "gulp": "^4.0.2",
+    "gulp-if": "^3.0.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-uglify-es": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^5.0.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/G-Freeman/WSS.git"
+  },
+  "author": "vk.com/drfreeman",
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ],
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "yargs": "^15.4.0"
+  }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="kvm2.dr-zukis.14kpz.vps.myjino.ru" id="4e12a59a-6992-46a8-b9cf-f7ec7032a596" port="49392" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>

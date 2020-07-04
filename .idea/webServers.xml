@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f68624cc-453b-4386-b5ff-540f72fdc718" name="Server" url="kvm2.dr-zukis.14kpz.vps.myjino.ru">
+        <fileTransfer accessType="SFTP" host="kvm2.dr-zukis.14kpz.vps.myjino.ru" port="49392" sshConfigId="4e12a59a-6992-46a8-b9cf-f7ec7032a596" sshConfig="root@kvm2.dr-zukis.14kpz.vps.myjino.ru:49392 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

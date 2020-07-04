@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10ae860e-f501-4a16-be12-af2ecfff145f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/WebSocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eDaFeUUWOEEaGGYY55MoKTPfX8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gulpfile.js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Projects\WEB\WebSocket" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Start">
+    <configuration name="Build" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>build</task>
+      </tasks>
+      <arguments>--env=prod</arguments>
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gulp.js.Build" />
+      <item itemvalue="npm.Start" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10ae860e-f501-4a16-be12-af2ecfff145f" name="Default Changelist" comment="" />
+      <created>1593858514727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593858514727</updated>
+      <workItem from="1593858516601" duration="7486000" />
+      <workItem from="1593867330622" duration="754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="796" y="408" key="#Deployment" timestamp="1593859713557">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="796" y="408" key="#Deployment/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593859713557" />
+    <state x="957" y="381" key="#Options" timestamp="1593859739165">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="957" y="381" key="#Options/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593859739165" />
+    <state x="780" y="395" key="#SSH_Configurations" timestamp="1593858875496">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="780" y="395" key="#SSH_Configurations/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593858875496" />
+    <state x="1092" y="317" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593867019621">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1092" y="317" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593867019621" />
+    <state x="1022" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593859470304">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1022" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593859470304" />
+    <state x="984" y="504" key="FileChooserDialogImpl" timestamp="1593864132158">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="984" y="504" key="FileChooserDialogImpl/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593864132158" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1593867323257">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593867323257" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1593867323257">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593867323257" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1593867323257">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593867323257" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1593867323257">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593867323257" />
+    <state x="986" y="480" key="ftp.server.browser" timestamp="1593859704142">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="986" y="480" key="ftp.server.browser/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593859704142" />
+    <state x="1074" y="641" key="publish.login" timestamp="1593858729875">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1074" y="641" key="publish.login/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593858729875" />
+    <state x="943" y="315" key="search.everywhere.popup" timestamp="1593867287323">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" key="search.everywhere.popup/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593867287323" />
+    <state x="1089" y="567" key="webDeployment.PermissionsDialog" timestamp="1593859458661">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1089" y="567" key="webDeployment.PermissionsDialog/0.0.2560.1400/-1080.-322.1080.1880@0.0.2560.1400" timestamp="1593859458661" />
+  </component>
+</project>
